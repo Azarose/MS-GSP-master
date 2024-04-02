@@ -1,0 +1,83 @@
+The number of length 1 sequential pattern is 3
+Pattern : <{1}>: Count = 3
+Pattern : <{3}>: Count = 3
+Pattern : <{4}>: Count = 2
+The number of length: 2 sequential pattern is 5
+Pattern : <{1}{1}>:Count = 2
+Pattern : <{1,3}>:Count = 3
+Pattern : <{1}{3}>:Count = 3
+Pattern : <{3}{1}>:Count = 2
+Pattern : <{3}{3}>:Count = 3
+The number of length: 3 sequential pattern is 11
+Pattern : <{1}{1}{1}>:Count = 2
+Pattern : <{1}{1,3}>:Count = 1
+Pattern : <{1}{1}{3}>:Count = 1
+Pattern : <{1,3}{1}>:Count = 2
+Pattern : <{1,3}{3}>:Count = 3
+Pattern : <{1}{3}{1}>:Count = 2
+Pattern : <{1}{3}{3}>:Count = 2
+Pattern : <{3}{1}{1}>:Count = 2
+Pattern : <{3}{1,3}>:Count = 1
+Pattern : <{3}{3}{1}>:Count = 2
+Pattern : <{3}{3}{3}>:Count = 1
+The number of length: 4 sequential pattern is 18
+Pattern : <{1}{1}{1}{1}>:Count = 2
+Pattern : <{1}{1}{1,3}>:Count = 1
+Pattern : <{1}{1,3}{1}>:Count = 1
+Pattern : <{1}{1,3}{3}>:Count = 1
+Pattern : <{1}{1}{3}{1}>:Count = 1
+Pattern : <{1,3}{1}{1}>:Count = 2
+Pattern : <{1,3}{1,3}>:Count = 1
+Pattern : <{1,3}{3}{1}>:Count = 2
+Pattern : <{1,3}{3}{3}>:Count = 1
+Pattern : <{1}{3}{1}{1}>:Count = 2
+Pattern : <{1}{3}{1,3}>:Count = 1
+Pattern : <{1}{3}{3}{1}>:Count = 2
+Pattern : <{1}{3}{3}{3}>:Count = 1
+Pattern : <{3}{1}{1}{1}>:Count = 2
+Pattern : <{3}{1,3}{1}>:Count = 1
+Pattern : <{3}{3}{1}{1}>:Count = 2
+Pattern : <{3}{3}{3}{1}>:Count = 1
+Pattern : <{3}{3}{3}{3}>:Count = 1
+The number of length: 5 sequential pattern is 19
+Pattern : <{1}{1}{1}{1}{1}>:Count = 1
+Pattern : <{1}{1}{1,3}{1}>:Count = 1
+Pattern : <{1}{1,3}{1}{1}>:Count = 1
+Pattern : <{1}{1,3}{1,3}>:Count = 1
+Pattern : <{1}{1,3}{3}{1}>:Count = 1
+Pattern : <{1}{1}{3}{1}{1}>:Count = 1
+Pattern : <{1,3}{1}{1}{1}>:Count = 2
+Pattern : <{1,3}{1,3}{1}>:Count = 1
+Pattern : <{1,3}{3}{1}{1}>:Count = 2
+Pattern : <{1,3}{3}{3}{1}>:Count = 1
+Pattern : <{1,3}{3}{3}{3}>:Count = 1
+Pattern : <{1}{3}{1}{1}{1}>:Count = 2
+Pattern : <{1}{3}{1,3}{1}>:Count = 1
+Pattern : <{1}{3}{3}{1}{1}>:Count = 2
+Pattern : <{1}{3}{3}{3}{1}>:Count = 1
+Pattern : <{3}{1,3}{1}{1}>:Count = 1
+Pattern : <{3}{3}{1}{1}{1}>:Count = 1
+Pattern : <{3}{3}{3}{1}{1}>:Count = 1
+Pattern : <{3}{3}{3}{3}{1}>:Count = 1
+The number of length: 6 sequential pattern is 13
+Pattern : <{1}{1}{1,3}{1}{1}>:Count = 1
+Pattern : <{1}{1,3}{1}{1}{1}>:Count = 1
+Pattern : <{1}{1,3}{1,3}{1}>:Count = 1
+Pattern : <{1}{1,3}{3}{1}{1}>:Count = 1
+Pattern : <{1,3}{1,3}{1}{1}>:Count = 1
+Pattern : <{1,3}{3}{1}{1}{1}>:Count = 1
+Pattern : <{1,3}{3}{3}{1}{1}>:Count = 1
+Pattern : <{1,3}{3}{3}{3}{1}>:Count = 1
+Pattern : <{1}{3}{1,3}{1}{1}>:Count = 1
+Pattern : <{1}{3}{3}{1}{1}{1}>:Count = 1
+Pattern : <{1}{3}{3}{3}{1}{1}>:Count = 1
+Pattern : <{3}{3}{3}{1}{1}{1}>:Count = 1
+Pattern : <{3}{3}{3}{3}{1}{1}>:Count = 1
+The number of length: 7 sequential pattern is 5
+Pattern : <{1}{1,3}{1,3}{1}{1}>:Count = 1
+Pattern : <{1,3}{3}{3}{1}{1}{1}>:Count = 1
+Pattern : <{1,3}{3}{3}{3}{1}{1}>:Count = 1
+Pattern : <{1}{3}{3}{3}{1}{1}{1}>:Count = 1
+Pattern : <{3}{3}{3}{3}{1}{1}{1}>:Count = 1
+The number of length: 8 sequential pattern is 1
+Pattern : <{1,3}{3}{3}{3}{1}{1}{1}>:Count = 1
